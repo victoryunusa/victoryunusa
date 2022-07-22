@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align= "center"><b>Victor Yunusa</b></h1>
 
 <p align="center">
