@@ -6,7 +6,7 @@ Web, Mobile & Cloud Developer
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [victoryunusa17@gmail.com](mailto:victoryunusa17@gmail.com)
-* 🚀  I'm currently working on [Foodable](http://https://foodable.ng)
+* 🚀  I'm currently working on [Nelsa](http://https://getnelsa.com)
 * 🤝  I'm open to collaborating on Fintech, Agritech.
 
 ### Skills
